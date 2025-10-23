@@ -87,4 +87,16 @@ The task helped me understand the importance of convolution, pooling, and activa
 I used Visual Studio Code as my primary editor, which made running, debugging, and visualizing model performance easy and efficient.
 This project strengthened my understanding of Deep Learning and Computer Vision, providing practical knowledge applicable to advanced AI projects like object detection, facial recognition, and autonomous systems.
 
+OUTPUT :
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/e2de192c-17b7-48f2-bb4a-9112660d9ac4" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/27377175-c4e2-4ceb-9cf7-e16268a3a62c" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/53a6adf6-89ef-4d2c-87c6-83be7e9345a1" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/61624e2f-490a-4765-9fff-a235200132e9" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/08016dad-89b5-4bcc-8797-1cb36a7d1a36" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/ee061f08-95b2-4f1b-9953-5ede58d11b0a" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/830af189-d930-4338-9609-5cd543469b59" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/fb461bc4-c806-49a4-b7aa-acf8bbff73ce" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/df02a487-3882-4512-8ef7-a65fca18cbe6" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/d3914dfb-e2f0-4cc4-8727-c43e92f10047" />
 
